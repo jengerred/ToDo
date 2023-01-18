@@ -5,7 +5,7 @@ This project was an assignment for the MIT XPRO course. We were given some files
 ## How to Run:  
 To Install: open your terminal and type: npm install -- global http-server
 
-Then to run the server without caching type: http-server -c-1
+Then to run the server without caching, in your terminal type: http-server -c-1
 
 Then navigate to localhost:8080 on your browser
 
@@ -13,6 +13,7 @@ To quit the server: press Cntrl or Cmd + c
 
 ## Roadmap of future improvements:: 
 I will use this and adjust as needed for any future projects that may need a list similar to this. 
+
 ## License information: 
 MIT License
 
