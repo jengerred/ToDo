@@ -17,7 +17,7 @@ I will use this and adjust as needed for any future projects that may need a lis
 ## License information: 
 MIT License
 
-Copyright (c) 2022 Jennifer Gerred
+Copyright (c) 2023 Jennifer Gerred
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
