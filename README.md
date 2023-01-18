@@ -3,9 +3,12 @@
 ## Description:
 This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to create a styled ToDo list application in React. I chose to add styling to the page by adding a hover over the todo list items so that it will highlight what you have completed and want to delete. I also added some quotes to help encourage completiion of tasks. I styled the Heading and changed the colors as well. I really enjoyed working on this project. 
 ## How to Run:  
-To Install open your terminal and type: npm install -- global http-server
+To Install: open your terminal and type: npm install -- global http-server
+
 Then to run the server without caching type: http-server -c-1
+
 Then navigate to localhost:8080 on your browser
+
 To quit the server: press Cntrl or Cmd + c 
 
 ## Roadmap of future improvements:: 
