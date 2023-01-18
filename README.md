@@ -1,7 +1,7 @@
 # ToDo
 
 ## Description:
-This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to  create a styled ToDo list application in React. I choose to add styling to the page by adding a hover over the todo list items so that it will highlight what you have completed and want to delete. I also added some quotes to help encourage completiion of tasks. I styled the Heading and changed the colors as well. I really enjoyed working on this project. 
+This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to create a styled ToDo list application in React. I chose to add styling to the page by adding a hover over the todo list items so that it will highlight what you have completed and want to delete. I also added some quotes to help encourage completiion of tasks. I styled the Heading and changed the colors as well. I really enjoyed working on this project. 
 ## How to Run:  
 
 ## Roadmap of future improvements:: 
