@@ -9,7 +9,7 @@ function TodoForm({addTodo}){
       }
 
     return (
-        <form className="form" onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit}>
         <input 
          type="text"
          className="input" 
